@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    font-family: arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.cartao{
+    background-color: blue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px black;
+    text-align: center;
+    width: 330px;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    border: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: blue;
+}
